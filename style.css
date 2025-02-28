@@ -1,7 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+}
+
 body {
     background: #202020;
     color: white;
     font-family: sans-serif;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h1 {
+    margin: 20px;
 }
 
 main {
