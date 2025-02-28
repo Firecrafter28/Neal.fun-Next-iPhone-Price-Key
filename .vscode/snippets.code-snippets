@@ -1,0 +1,14 @@
+{
+	"New Item": {
+		"scope": "html",
+		"prefix": "item",
+		"body": [
+			"<div class=\"item\">",
+			"\t<img src=\"./Assets$1\" class=\"item__img\">",
+			"\t<div class=\"item__name\">$2</div>",
+			"\t<div class=\"item__price\">$$3</div>",
+			"</div>"
+		],
+		"description": "Add a new item"
+	}
+}
